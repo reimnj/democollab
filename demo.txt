@@ -1,3 +1,5 @@
 printf("Hello World!");
 Mahal mo ba ako?
 
+Guoba Al: Yes, that's what I'm trying to express yesterday. Kaya tulala ako.
+
